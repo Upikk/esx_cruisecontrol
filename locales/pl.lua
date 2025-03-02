@@ -1,12 +1,12 @@
 Locales['pl'] = {
-  ['activated']   = 'aktywowano',
-  ['deactivated'] = 'dezaktywano',
-  ['increaseSpeed'] = 'Increase Speed',
-  ['decreaseSpeed'] = 'Decrease Speed',
-  ['cruiseControl'] = 'Cruise Control',
+  ['activated']   = 'Aktywowano',
+  ['deactivated'] = 'Dezaktywano',
+  ['increaseSpeed'] = 'Zwiększ Prędkość',
+  ['decreaseSpeed'] = 'Zmniejsz Prędkość',
+  ['cruiseControl'] = 'Tempomat',
 
   --Seatbelt
-  ['toggleSeatbelt'] = "Toggle Seatbelt",
-  ["seatbeltOn"] = "Seatbelt ON",
-  ["seatbeltOff"] = "Seatbelt OFF"
+  ['toggleSeatbelt'] = "Przełącz Pas",
+  ["seatbeltOn"] = "Pas ZAPIĘTY",
+  ["seatbeltOff"] = "Pad ROZPIĘTY"
 }
